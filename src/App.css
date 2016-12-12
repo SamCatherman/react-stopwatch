@@ -14,6 +14,11 @@
   color: white;
 }
 
+h3{
+  text-align: center;
+  color: red;
+  font-size: 5em;
+}
 .App-intro {
   font-size: large;
 }
